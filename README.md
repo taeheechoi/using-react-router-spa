@@ -1,4 +1,4 @@
-[Demo] (https://rnfsoft.github.io/using-react-router-spa)
+[Demo](https://rnfsoft.github.io/using-react-router-spa)
 
 ### Reference
 
